@@ -1,4 +1,4 @@
-### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=AJ-Coding101)
+![](https://komarev.com/ghpvc/?username=AJ-Coding101&color=grey)
 
